@@ -1,0 +1,3 @@
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QThe tenorizans molle movement would almost always be found in the context of a IVm-I plagal cadence (Dm resolving to A maj), so it could be seen as a period-incorrect retrofit, or borrowing the relative minor key.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QA brief and informal introduction to a fundamentalist, Zermelo–Fraenkel-esque approach to functional harmony of the European/Western music tradition.\\E$"}
+{"rule":"EN_UNPAIRED_BRACKETS","sentence":"^\\Qif the octave-reduced harmonic lattice (e.g. in 5-limit music, the 2-dimensional Tonnetz) has mirror-symmetry about the axis/plane that is orthogonal to all basis vectors (i.e. the Monzo of [1 1 1 1 ...>).\\E$"}
