@@ -1,25 +1,9 @@
-- [Overanalyzing the perfect cadence](#overanalyzing-the-perfect-cadence)
-  - [Part I. Deconstruction](#part-i-deconstruction)
-    - [Renaissance cadence theory](#renaissance-cadence-theory)
-    - [Pitch memory](#pitch-memory)
-    - [Just intonation analysis](#just-intonation-analysis)
-  - [The axioms](#the-axioms)
-  - [Part II. Present-day conflicts](#part-ii-present-day-conflicts)
-    - [Assumption of octave equivalence](#assumption-of-octave-equivalence)
-    - [Duality](#duality)
-    - [Non-universality of functional equivalence](#non-universality-of-functional-equivalence)
-    - [Negative Harmony](#negative-harmony)
-    - [(not free) Atonality](#not-free-atonality)
-    - [Digression](#digression)
-  - [Part III. Reconstruction](#part-iii-reconstruction)
-    - [Tonality](#tonality)
-  - [(subjective, personal) Conclusion](#subjective-personal-conclusion)
-
 # Overanalyzing the perfect cadence
 
 A brief and informal introduction to a fundamentalist, [Zermelo–Fraenkel](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory)-esque approach to functional harmony of the European/Western music tradition.
 
 > Recommended viewings/readings:
+>
 > - [[Youtube] Can an Octave Sound Dissonant (Objective Harmony)](https://www.youtube.com/watch?v=wg5QcF2akzQ&ab_channel=ObjectiveHarmony)
 > - [[Book] On the Sensations of Tone (John Ellis, Hermann von Helmholtz)](https://www.amazon.sg/Sensations-Hermann-Ludwig-Ferdinand-Helmholtz/dp/0486607534/ref=asc_df_0486607534/?tag=googleshoppin-22&linkCode=df0&hvadid=594253986426&hvpos=&hvnetw=g&hvrand=13411343694138907540&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062515&hvtargid=pla-451189330065&psc=1)
 > - [[Book] Textbook of Harmonics (Hans Kayser)](https://hanskayser.com/EZ/hk/hk/ice-book-textbook-of-harmonics.php?PHPSESSID=cnjbgob76puthjdurpq26g6fu2&scrolly=575&item=346)
@@ -177,7 +161,7 @@ Now let us analyse the horizontal voice movements in section 1 in just intonatio
 - short term pitch memory exists (Deutsch), giving rise to the notion of voice leading/movements
 - certain intervals (approx. between 66 and 166 cents) are more likely than others to cause movement
 - the 4 harmonic/pitch-based measures of 'complexity'
-  - height functions (for a rational interval/chord, assuming culturally entrained affinity to the rationals (harmonic series)) 
+  - height functions (for a rational interval/chord, assuming culturally entrained affinity to the rationals (harmonic series))
     - Benedetti, Tenney, Weil, Wilson, Euclid, Faltings, etc...
   - harmonic entropy (for an irrational interval/chord, built on intrinsic physiological/psychoacoustic phenomenon of [concordance](https://en.xen.wiki/w/Harmonic_entropy#Background))
     - Paul Erlich, Steve Martin, Mike Battaglia, Keenan Pepper,  Lilian M. Hearne, etc...
@@ -210,7 +194,6 @@ Counterexamples:
 - [gamelan (Anglirmendung)](https://open.spotify.com/track/6VVUd8IQmXN28XIMjlLVP1?si=97d0f9817a1f4b2c)
 - implications of octave choice in chord voicings due to [combination tones](https://www.youtube.com/watch?v=saJeTRnBoeM&ab_channel=ComposingGloves), [virtual fundamental](https://www.youtube.com/watch?v=t-iWKvh6Fbw&ab_channel=MusicalAcoustics), and voice leading
 - the [Tzimane](https://www.cell.com/current-biology/fulltext/S0960-9822(19)31036-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS096098221931036X%3Fshowall%3Dtrue)
-
 
 ### Duality
 
