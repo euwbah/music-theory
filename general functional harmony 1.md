@@ -109,9 +109,13 @@ We can already make the observation that the simplest vertical structures would 
 >
 > Harmonic entropy can be thought of as a 'general formula' for calculating discordance of a static vertical chord voicing. The computation is beyond the scope of this writing, but it is good to know that the intuitive 'complexity' we are using still holds true even when using harmonic entropy for our current example.
 >
-> There are also known metrics of objectively scoring discordance between just intonated interval ratios, which are known as [height functions](https://en.xen.wiki/w/Height). When a just interval is said to be relatively 'complicated' or 'discordant', the height function would yield a relatively larger score. In number theory, height functions quantify the [complexity of objects](https://en.wikipedia.org/wiki/Height_function).
+> There are also known metrics of objectively scoring the complexity of just intonated interval ratios, which are known as [height functions](htt.ps://en.xen.wiki/w/Height). When a just interval is said to be relatively 'complicated' or 'discordant', the height function would yield a relatively larger score. In number theory, height functions quantify the [complexity of objects](https://en.wikipedia.org/wiki/Height_function). 
 >
->> Disclaimer's disclaimer: polyadic entropy/height measuring functions assume a cultural bias toward the harmonic series (because it is present in all 1-dimensional resonance systems); However, for music based off of inharmonic partials of [rectangular](https://www.researchgate.net/publication/310744242_An_Analytical_Solution_to_Free_Rectangular_Plate_Natural_Vibrations_by_Beam_Modes_-_Ordinary_and_Missing_Plate_Modes)/[spherical](https://en.wikipedia.org/wiki/Spherical_harmonicshttps://en.wikipedia.org/wiki/Spherical_harmonics) surfaces (e.g. Gamelan), using measures based on the [Critical Bandwidth (Plomp & Levelt)](https://www.mpi.nl/world/materials/publications/levelt/Plomp_Levelt_Tonal_1965.pdf) model (like the [Sethares algorithm](https://sethares.engr.wisc.edu/consemi.html)) has much better effectiveness as demonstrated [here](https://www.youtube.com/watch?v=ksX-saQVL40&ab_channel=ObjectiveHarmony).
+>> Disclaimer's Disclaimer 1: [This excerpt](https://twitter.com/iamzheanna/status/1554221667370541058) by Zheanna Erose demonstrates a consonant, and familiar (12 edo-ish), sounding collection of 7 just-intonated notes such that all frequencies are coprime (not counting prime 2 - octave-reduction). By the metric of height functions, this collection is of great complexity, despite its consonance. To add, the 12 edo major scale has technically infinite complexity since it is tuned with irrational frequencies.
+>>
+>> Caution must be taken as numerical complexity does not necessarily imply the perception of a discordant sound, as the human [perception of pitch](https://www.pnas.org/doi/10.1073/pnas.081070998), let alone consonance, involves a seemingly inexhaustible list of factors (I am lazy to list them, but the citations of [this article](https://asa.scitation.org/doi/full/10.1121/1.5127845) are a good starting point), most of which gives a tolerance bandwidth, and imply a cognitive process of ['autocorrecting'](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000301).
+>>
+>> Disclaimer's Disclaimer 2: polyadic entropy/height measuring functions assume a cultural bias toward the harmonic series (because it is present in all 1-dimensional resonance systems); However, for music based off of inharmonic partials of [rectangular](https://www.researchgate.net/publication/310744242_An_Analytical_Solution_to_Free_Rectangular_Plate_Natural_Vibrations_by_Beam_Modes_-_Ordinary_and_Missing_Plate_Modes)/[spherical](https://en.wikipedia.org/wiki/Spherical_harmonicshttps://en.wikipedia.org/wiki/Spherical_harmonics) surfaces (e.g. Gamelan), using measures based on the [Critical Bandwidth (Plomp & Levelt)](https://www.mpi.nl/world/materials/publications/levelt/Plomp_Levelt_Tonal_1965.pdf) model (like the [Sethares algorithm](https://sethares.engr.wisc.edu/consemi.html)) has much better effectiveness as demonstrated [here](https://www.youtube.com/watch?v=ksX-saQVL40&ab_channel=ObjectiveHarmony).
 >
 > Note that there is still merit to continuing the analysis in just intonation as these specifically chosen just interval representations have the highest probabilities of being perceived and detempered by the auditory cortex as the input stimuli 12edo tempered intervals. However, a full analysis would require one to perform the following observations on all other possible just interval representations (e.g. 21/16 ([octave-reduced](https://en.xen.wiki/w/Octave_reduction) 7th harmonic of G) instead of 4/3 for the note F4 in G3 dominant 7 taken w.r.t. C4), though it would yield similar conclusions.
 
@@ -257,13 +261,15 @@ if the octave-reduced harmonic lattice (e.g. in 5-limit music, the 2-dimensional
 
 The fact that the 'negative' transform of a C major scale taken about its root note can generate exactly the fifth mode of its natural minor with the root a fifth below (F minor/C phrygian, modern modal definition) is part of the leniency of the symmetrical 12-tone system.
 
-The general solution to negative harmony given is out of scope of this article, but to get started, the generalized conception would require:
+The general 'formula' of negative harmony given is out of scope of this article, but to get started, the generalized conception would require:
 
 - [Fokker periodicity blocks](https://en.wikipedia.org/wiki/Fokker_periodicity_block)
 - [Finite Abelian groups](https://groupprops.subwiki.org/wiki/Finite_abelian_group)
-- Solving of [simultaneous diophantines](https://en.wikipedia.org/wiki/Diophantine_equation#System_of_linear_Diophantine_equations), within a quotient subspace (that depends on the temperament) of the field R^n in p-limit harmony where p = nth prime.
+- Solving of [simultaneous diophantines](https://en.wikipedia.org/wiki/Diophantine_equation#System_of_linear_Diophantine_equations), within a quotient subspace (varying according to temperament) of the abelian number field Aⁿ in p-limit harmony where p = nth prime.
 
 ### (not free) Atonality
+
+> [Emancipation of the dissonance](https://en.wikipedia.org/wiki/Emancipation_of_the_dissonance): _These aren't dissonances, they're just complex consonances of the (2⁸²⁵⁸⁹⁹³³ − 1)th prime limit_
 
 To paraphrase Bernstein, the divided school of expressionists (Scriabin v. Schoenberg) had common ground in the search for greater expressive capability that is still contained within a formal system with structure.
 
@@ -273,11 +279,11 @@ Besides octave equivalence, this formal system of serialism is an endomorphism o
 
 Because of [Cantor's paradox](https://en.wikipedia.org/wiki/Cantor%27s_paradox), given pitches in the set of all reals, the serialist approach is no longer definable.
 
-Thus, the motivation behind atonality is the antithesis of this article, since this article is about extending expressive capability within the formal structure of physiologically/logically-intrinsic concepts.
+Thus, the motivation behind atonality would be the antithesis of this writing, since this article is about extending expressive capability within the formal structure of physiologically/logically-intrinsic concepts.
 
 ### Digression
 
-Once again, there is nothing inherently wrong with these constructs within the context of present-day tuning. However, knowing their inner workings gives clues to when such constructs are effective &mdash; the nature of their application in both sound, culture, and in pure number theory &mdash; as opposed to being resorted to as the 'quadratic equations' of music. A future article will cover an extrapolated and reified application in further detail.
+Once again, there is nothing inherently wrong with these constructs within the context of present-day tuning. However, knowing their inner workings gives clues to when such constructs are effective &mdash; the nature of their application in both sound, culture, and in pure number theory &mdash; as opposed to being resorted to as the 'formulas' of music. A future article will cover an extrapolated and reified application of these constructs in further detail.
 
 ## Part III. Reconstruction
 
@@ -285,11 +291,13 @@ Once again, there is nothing inherently wrong with these constructs within the c
 
 ### Tonality
 
-In the ideal world, tonality is the way existence can be. Or assuming existence follows no rules, then it is all the ways [rules may manifest](https://www.youtube.com/watch?v=RnqwFpyqJFw&ab_channel=RichardE.BORCHERDS), as long as they count as the incomplete rules of expectation and subversion.
+In the ideal world, tonality is the haecceity of existence. Or assuming existence follows no rules, then it is all the ways [rules may manifest](https://www.youtube.com/watch?v=RnqwFpyqJFw&ab_channel=RichardE.BORCHERDS), as long as they are in the infinite set of rules of [expectation and subversion](https://www.quantamagazine.org/how-godels-incompleteness-theorems-work-20200714/).
+
+> As a tangible example of the cryptic statement above, [well-formed scales](https://www.researchgate.net/publication/215646485_Aspects_of_Well-Formed_Scales) provides a teaser of how logical symmetries correlate with constructs evolved in cultures that temper/notice the [Pythagorean comma](https://en.wikipedia.org/wiki/Pythagorean_comma), such that musical structures tend toward the cardinalities of 1, 2, 3, 5, 7, 12, regardless of unit. Sacrificing accuracy for brevity, it could be said that the numbers themselves contain information of how they can be arranged. _There are a finite number of [distinct](https://en.wikipedia.org/wiki/Group_isomorphism) [finite groups](https://en.wikipedia.org/wiki/Finite_group) of each given [order](https://www.youtube.com/watch?v=OWTKYLAEYvY&ab_channel=Socratica)._ Even without accounting for any cultural entrainment, or with inaccurate assumptions of the linearity of pitch perception, a purely logical expression can give insight to structures that naturally evolve/occur (Other well-known non-musical examples: [logistic maps](https://en.wikipedia.org/wiki/Logistic_map), [e](https://socratic.org/questions/how-does-e-2-718-help-apply-to-applications-implications-in-real-life), [phi](https://www.mathnasium.com/examples-of-the-golden-ratio-in-nature))
 
 Assuming this definition, tonality would then be a spectrum encompassing the interval from abstract to fundamental. Atonality is the epitome of disregard for the fundamental by an attempt to manifest the abstract, yet now it is within tonality. At the other end, we have the search for the fundamental.
 
-> I assume _fundamental_ to be defined with the physiological axioms of perception of pitch, timbre, harmony, and psychoacoustic phenomenon, not that of perception of structure or form. Unfortunately, the subjectivity of these psychoacoustic experiments and the human experience is technically still an unstable self-referential foundation.
+> I assume _fundamental_ to be defined with the mostly invariant physiological axioms of perception of pitch, timbre, harmony, and psychoacoustic phenomenon, not that of the subjective perception of structure or form. The subjectivity of psychoacoustic experimentation and the human experience is technically still an unstable self-referential foundation.
 >
 > Since we experience music through time and through conscious being, there is a state of tonality that cannot be modelled, the result of having to perceive through the lens of human perception. The intrinsic factors can be modelled (height functions, entropy, circular maps, dynamic resonance, bayesian statistics etc.), but the extrinsic factors involve knowledge of cultural entrainment (long-term memory) and free will to direct attention to particular frequencies over others, which then ultimately contributes to the looser terms like being 'melodic' or having strong 'phrasing'.
 >
@@ -311,7 +319,9 @@ To give an example, a resolution to a minor tonality in 12edo could be utilized 
 
 And the list extends to infinity by means of the [Farey sequence](https://en.wikipedia.org/wiki/Farey_sequence) and [mediants](https://en.wikipedia.org/wiki/Mediant_(mathematics)). Each interpretation requires a different harmonic treatment that is consistent to the underlying (conscious/subconscious) numerical concept of the composer.
 
-To summarize, tonality depends on what frequencies are being reinforced in the short term memory, and the reinforcement of frequencies are seen through the filter of intrinsic factors (objective concordance and ease of perception of intervals), but also through cultural reinforcement of patterns and clichés.
+In summary, tonality depends on what frequencies are being reinforced in the short term memory, and the reinforcement of frequencies are seen through the filter of intrinsic factors (objective concordance and ease of perception of intervals), but also through cultural reinforcement of patterns and clichés.
+
+TL;DR: Tonality is whatever you want it to be, but what is "be"?
 
 ## (subjective, personal) Conclusion
 
