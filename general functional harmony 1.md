@@ -1,6 +1,6 @@
 # Overanalyzing the perfect cadence
 
-A brief and informal introduction to a fundamentalist, [Zermelo–Fraenkel](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory)-esque approach to functional harmony of the European/Western music tradition.
+A brief and informal introduction to a fundamentalist, [Zermelo–Fraenkel](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory)-esque approach to functional harmony of the European/Western music tradition, concluding in some pseudo-philosophical questions about music.
 
 > Recommended viewings/readings:
 >
@@ -289,11 +289,11 @@ Once again, there is nothing inherently wrong with these constructs within the c
 
 > Now that nothing is real any more, each individual has to develop their own individual concept of sound.
 
-### Tonality
+### Philosophy of tonality
 
 In the ideal world, tonality is the haecceity of existence. Or assuming existence follows no rules, then it is all the ways [rules may manifest](https://www.youtube.com/watch?v=RnqwFpyqJFw&ab_channel=RichardE.BORCHERDS), as long as they are in the infinite set of rules of [expectation and subversion](https://www.quantamagazine.org/how-godels-incompleteness-theorems-work-20200714/).
 
-> As a tangible example of the cryptic statement above, [well-formed scales](https://www.researchgate.net/publication/215646485_Aspects_of_Well-Formed_Scales) provides a teaser of how logical symmetries correlate with constructs evolved in cultures that temper/notice the [Pythagorean comma](https://en.wikipedia.org/wiki/Pythagorean_comma), such that musical structures tend toward the cardinalities of 1, 2, 3, 5, 7, 12, regardless of unit. Sacrificing accuracy for brevity, it could be said that the numbers themselves contain information of how they can be arranged. _There are a finite number of [distinct](https://en.wikipedia.org/wiki/Group_isomorphism) [finite groups](https://en.wikipedia.org/wiki/Finite_group) of each given [order](https://www.youtube.com/watch?v=OWTKYLAEYvY&ab_channel=Socratica)._ Even without accounting for any cultural entrainment, or with inaccurate assumptions of the linearity of pitch perception, a purely logical expression can give insight to structures that naturally evolve/occur (Other well-known non-musical examples: [logistic maps](https://en.wikipedia.org/wiki/Logistic_map), [e](https://socratic.org/questions/how-does-e-2-718-help-apply-to-applications-implications-in-real-life), [phi](https://www.mathnasium.com/examples-of-the-golden-ratio-in-nature))
+> As a tangible example of the cryptic statement above, [well-formed scales](https://www.researchgate.net/publication/215646485_Aspects_of_Well-Formed_Scales) provides a teaser of how logical symmetries correlate with constructs evolved in cultures that temper/notice the [Pythagorean comma](https://en.wikipedia.org/wiki/Pythagorean_comma), such that musical structures tend toward the cardinalities of 1, 2, 3, 5, 7, 12, regardless of unit. Sacrificing accuracy for brevity, it could be said that the numbers themselves contain information of how they can be arranged. _There are a finite number of [distinct](https://en.wikipedia.org/wiki/Group_isomorphism) [finite groups](https://en.wikipedia.org/wiki/Finite_group) of each given [order](https://www.youtube.com/watch?v=OWTKYLAEYvY&ab_channel=Socratica)._ Even without accounting for any cultural entrainment, or with inaccurate assumptions of the linearity of pitch perception, a purely logical expression can give insight to structures that naturally evolve/occur. To give an idea of how this can manifest in a musical example, [Formalized Music](https://www.google.com/url?sa=t&source=web&rct=j&url=https://monoskop.org/images/7/74/Xenakis_Iannis_Formalized_Music_Thought_and_Mathematics_in_Composition.pdf&ved=2ahUKEwjV_N7vuK75AhUZDrcAHfoBD1QQFnoECBcQAQ&usg=AOvVaw2NvUWADheH32FlJ-OK2c0a) by Xenakis details his own conception and application of mathematical thinking to his works. Other well-known non-musical examples: [logistic maps](https://en.wikipedia.org/wiki/Logistic_map), [e](https://socratic.org/questions/how-does-e-2-718-help-apply-to-applications-implications-in-real-life), [phi](https://www.mathnasium.com/examples-of-the-golden-ratio-in-nature))
 
 Assuming this definition, tonality would then be a spectrum encompassing the interval from abstract to fundamental. Atonality is the epitome of disregard for the fundamental by an attempt to manifest the abstract, yet now it is within tonality. At the other end, we have the search for the fundamental.
 
@@ -323,9 +323,33 @@ In summary, tonality depends on what frequencies are being reinforced in the sho
 
 TL;DR: Tonality is whatever you want it to be, but what is "be"?
 
-## (subjective, personal) Conclusion
+### Tonality
 
-- Concealed within 12 edo is the full history of the entrainment of the western music school.
-- Knowldege of physiological perception + entrainment allows the full exhaustion of tonality within the cultural context of the entrainment.
-- And that of beyond 12 edo.
-- 
+Deriving a definition for existence is hard.
+
+Even with the Tonnetz-influenced ideal of duals, Riemann drew on Fichter's triadic "Ich, nicht-Ich, limitierend Ich-nicht-Ich" (_[Thesis, Antithesis, Synthesis](https://books.google.com.sg/books?id=zew4x5AcEwoC&pg=PA69&lpg=PA69&dq=riemann+plagal+perfect&source=bl&ots=1faQvLLDs-&sig=ACfU3U10n_2K5EYCBvHoIoxnnoJyWMe6PQ&hl=en&sa=X&ved=2ahUKEwjmlbaXuK75AhUdArcAHYo2C28Q6AF6BAgrEAI#v=onepage&q&f=false)_) to highlight the need for assymetry to give a proper statement for identity of the 'tonic'.
+
+Without prior context or asymmetries, it is impossible to differentiate I-IV from V-I.
+
+We can extrapolate that functional harmony only exists because we experience stimuli relative to prior stimuli. If we could exist in the [infinitesimal now](https://link.springer.com/chapter/10.1007/978-3-319-44418-5_21), and assuming omniscience, every experience would be consonant, or at least, without motion (in the strain of [Zeno's Dichotomy Paradox of motion](https://en.m.wikipedia.org/wiki/Zeno%27s_paradoxes)).
+
+We now postulate that tonality is relative.
+
+### Axes of tonality
+
+Intrinsic:
+
+- concordance-discordance
+- roughness (critical bandwidth)
+- stochastic resonance of auditory nerve
+
+Extrinsic:
+- darkness-brightness (variate to powers of prime 3)
+- primary color (variate to powers of prime 5)
+- secondary color (variate to powers of primes 7, 11, 13)
+- timbral harmony (variate to powers of high primes)
+- rhythmic entrainment
+
+## Fine
+
+Thanks for reading, the next article will focus on practical applications of these concepts.
