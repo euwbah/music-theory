@@ -1,24 +1,37 @@
-# Overanalyzing the perfect cadence
+{%hackmd theme-dark %}
 
-A brief and informal introduction to a fundamentalist, [Zermelo–Fraenkel](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory)-esque approach to functional harmony of the European/Western music tradition, concluding in some pseudo-philosophical questions about music.
+# GMT1: Overanalyzing the perfect cadence
 
-> Recommended viewings/readings:
+A brief and informal introduction to a fundamentalist, [Zermelo–Fraenkel](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory)-esque approach to functional harmony of the European/Western music tradition, concluding in half-jestful thoughts about the pursuit of the philosophy of 'tonal music': ~~a 3-philosophy, a philosophy of a philosophy of a philosophy~~
+
+tonal music
+: coming from the european classical tradition made after the conception of '[major and minor](https://en.wikipedia.org/wiki/Major_and_minor)' and the deprecation of medieval modus and the [Guidonian hexachordal system](https://www.youtube.com/watch?v=IRDDT1uSrd0&ab_channel=EarlyMusicSources) from mainstream conception. 
+
+tonality
+: the conceptions behind tonal music
+
+functional
+: a mostly consistent application of tonality to invoke the perception of harmonic structure and form
+
+This article's main intention is to serve as a launchpad: a glossary of terminologies to google, with occasional links to sources that are put in context (hopefully) of a far-reaching inquiry: the math, aesthetics, history, physiology, psychology, and philosophy of music in the eurocentric paradigm. Tons of links of videos, papers, and articles within this document, have a look at them (use Chrome as some links are to specific fragments which is unfortunately presently a chrome-only feature). 
+
+You would have to revisit these sources many times, and read them (and this) in small chunks. Be warned, there will be constant jumps and gaps in topics leaving out deductions and certain thought processes, for the sake of brevity.
+
+> Before you start, here are some recommended viewings/readings:
 >
 > - [[Youtube] Can an Octave Sound Dissonant (Objective Harmony)](https://www.youtube.com/watch?v=wg5QcF2akzQ&ab_channel=ObjectiveHarmony)
 > - [[Book] On the Sensations of Tone (John Ellis, Hermann von Helmholtz)](https://www.amazon.sg/Sensations-Hermann-Ludwig-Ferdinand-Helmholtz/dp/0486607534/ref=asc_df_0486607534/?tag=googleshoppin-22&linkCode=df0&hvadid=594253986426&hvpos=&hvnetw=g&hvrand=13411343694138907540&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062515&hvtargid=pla-451189330065&psc=1)
 > - [[Book] Textbook of Harmonics (Hans Kayser)](https://hanskayser.com/EZ/hk/hk/ice-book-textbook-of-harmonics.php?PHPSESSID=cnjbgob76puthjdurpq26g6fu2&scrolly=575&item=346)
->
-> Tons of links of videos, papers, and articles within this document, have a look at them. Preferably, use Chrome as some links are to specific fragments which is currently only a feature that chrome supports.
 
 ## Part I. Deconstruction
 
-> In this section, we derive the ['axioms'](https://en.wikipedia.org/wiki/Axiom) of functional harmony by observing a G dominant 7 to C major resolving cadence (in the tonal center of C) from various perspectives. Apart from naming conventions, forget all preconceptions about functional analysis and chords.
+> In this section, we derive the ['axioms'](https://en.wikipedia.org/wiki/Axiom) of tonality by observing a G dominant 7 to C major resolving cadence (in the tonal center of C) from various perspectives. Apart from naming conventions, forget all preconceptions about functional analysis and chords.
 
-### Renaissance cadence theory
+### Renaissance cadence theory (pre-tonal functional music)
 
-The early conception of 'resolution' comprised of individual voices moving by specific intervals, rather than chords. These were known as 'clausula' but we shall refer to them as 'movements' in this writing.
+The early conception of 'resolution' comprised of individual voices moving by specific intervals, rather than chords. These were known as 'clausula' but we shall refer to them as '(cadential) movements' in this writing.
 
-Each cadential movement (a single monophonic voice moving from one note to another) is given a name. [See Early Music Sources's video/article](https://www.earlymusicsources.com/youtube/cadences)
+Each cadential movement (a single monophonic voice moving from one note to another) is given a name based on the movements of the voices relative to the scale degrees of the present [modi](http://ralfpisters.nl/teaching/cva/a2/2010-Renaissance-contrapunt-en.pdf). Because we are trying to analyze the modern authentic 'perfect' cadence, let us use modus 5 (lydian, authentic), which is congruent to the modern definition. Be careful &mdash; byzantinian/medieval/renaissance mode names differ from modern naming convention. [See Early Music Sources's video/article](https://www.earlymusicsources.com/youtube/cadences).
 
 Based on the one-step authentic cadence, which in present theory is known to be the basic V-I perfect cadence, we have these movements:
 
@@ -26,13 +39,13 @@ Based on the one-step authentic cadence, which in present theory is known to be 
 - B &rarr; C: Cantizans clausula
 - G &rarr; C: Bassizans clausula
 - (G &rarr; E: Altizans clausula)
-  - This is considered as an extraneous part in renaissance theory, and as later explained in section 2., actually does not constitute a 'movement'.
+  - This is only present when a 4th voice is needed, and can be thought of as a part with lesser importance.
 
 The dominant 7th resolves according to the one-step plagal cadence.:
 
 - F &rarr; E: Tenorizans molle clausula (plagal cadence)
 
-> Disclaimer: Here we're forcing the dominant 7th to fit into the renaissance paradigm. The tenorizans molle movement would almost always be found in the context of a IVm-I plagal cadence (Dm resolving to A maj), so it could be seen as a period-incorrect retrofit, or borrowing the relative minor key. However, during the transition between the renaissance and baroque, Monteverdi (1567 - 1643) is known to have used this exact movement in the same context as we are. By the Baroque period, the dominant 7th as an unprepared dissonance has been normalized.
+> Disclaimer: Here we're forcing the dominant 7th (and final resultion to a major third) to fit into the middle/pre-renaissance paradigm. The tenorizans molle movement would almost always be found in the context of a IV/IVm-I [plagal modi](https://en.wikisource.org/wiki/A_Dictionary_of_Music_and_Musicians/Plagal_Modes) cadence (e.g. Dm resolving to A maj), so it could be seen as a period-incorrect retrofit, as it is 'borrowing' the relative minor key. However, during the late renaissance, Monteverdi (1567 - 1643) is known to have used this exact movement with identical intention to ours. By the Baroque period, the dominant 7th as an unprepared dissonance has been normalized, as well as final resolutions to major/minor thirds.
 
 It could also be seen as the altizans of the tenor cadence, though the 'altizans' was normally attributed to being 'filler', so viewing it in this context may not necessarily be accurate:
 
@@ -52,7 +65,7 @@ We can extrapolate from 'pitch memory' that the presence of new pitches that are
 
 Specifically, 'close' can be defined as the intervals that cause increased error/forgetting in the pitch memory as shown in the following figure (Deutsch, [_Short Term Memory For Tones_](https://deutsch.ucsd.edu/psychology/pages.php?i=209)):
 
-![Fig. 1](img/IntervalDistError.jpg)
+![Fig. 1](https://github.com/euwbah/music-theory/raw/master/img/IntervalDistError.jpg)
 
 Relating this back to section 1, we can see how the renaissance concept of how the 'altizans' is a non-crucial voice in the authentic cadence has empirical backing as minor thirds do not 'move' pitches in the short term memory as much as other intervals.
 
@@ -61,7 +74,6 @@ Now, symmetries can be drawn between the 'voice movement' concept of renaissance
 From this, we can say:
 
 - Octave-equivalence does not apply when considering horizontal resolutions of harmony. (i.e. in the context of a homophonic chordal accompaniment, chord voicings are important, and octave choice is not arbitrary)
-
 - We hear harmonic 'colour changes' in accordance to how the short term memory is affected by present stimuli.
 
 ### Just intonation analysis
@@ -161,6 +173,7 @@ Now let us analyse the horizontal voice movements in section 1 in just intonatio
   - neuron activation & emergent systems
   - stochastic resonance
   - number theory
+  - and many more listed in general references at the start
 - the listener may make a conscious or unconscious decision (informed by cultural entrainment, free will, or cognition) to give importance to certain input frequency stimuli over others such that [perceived entropy is minimized](https://www.quantamagazine.org/anil-seth-finds-consciousness-in-lifes-push-against-entropy-20210930/)
 - short term pitch memory exists (Deutsch), giving rise to the notion of voice leading/movements
 - certain intervals (approx. between 66 and 166 cents) are more likely than others to cause movement
@@ -180,11 +193,11 @@ Now let us analyse the horizontal voice movements in section 1 in just intonatio
 
 ## Part II. Present-day conflicts
 
-Though initially obscured, conflicts soon arise between the axioms and paradigms in use by contemporary musicians. Due to the numerous mathematical coincidences in the [tempered-out commas](https://en.xen.wiki/w/Tempering_out) of the 12 equal divisions of the 2nd harmonic (12edo/ed2), the tuning system has immense harmonic leniency and symmetry that is unparalleled. In a sense, 12ED2 is the mathematical ideal end-game tuning system that specifically optimizes for minimal notes while allowing for symmetries of cofactors 2, 3, 4, 6; tempering out the syntonic and Pythagorean commas; and is an [optimal zeta edo](https://en.xen.wiki/w/The_Riemann_zeta_function_and_tuning#Zeta_EDO_lists) (i.e., the 'average tuning discrepancy' between intervals of the EDO and the harmonic series is at local minima when made into a continuous function across N edos).
+Though initially obscured, conflicts soon arise between the above axioms and paradigms in use by contemporary musicians. Due to the numerous mathematical coincidences in the [tempered-out commas](https://en.xen.wiki/w/Tempering_out) of the 12 equal divisions of the 2nd harmonic (12edo/[ed2](https://en.xen.wiki/w/Equal-step_tuning#:~:text=More%20generally%2C%20the%20term%20edn%20can%20be%20used)), the tuning system has immense harmonic leniency and symmetry that is unparalleled. In a sense, 12ED2 is the mathematical ideal end-game tuning system that specifically optimizes for minimal notes while allowing for symmetries of cofactors 2, 3, 4, 6; tempering out the syntonic and Pythagorean commas; and is an [optimal zeta edo](https://en.xen.wiki/w/The_Riemann_zeta_function_and_tuning#Zeta_EDO_lists) (i.e., the 'average tuning discrepancy' between intervals of the EDO and the harmonic series is at local minima when made into a continuous function across N edos).
 
-Over time, this leniency birthed a new consensus in the western classical paradigm which assumes all these symmetries and mathematical coincidences, elevating the 'ground truths' to concepts like major scales, cadences, etc...
+Over time, this _"leniency"_ birthed a new consensus in the western classical paradigm which assumes all these symmetries and mathematical coincidences, elevating the 'ground truths' to concepts like major scales, cadences, etc...
 
-These ground truths are not _incorrect_ of their own accord &mdash; _incorrect_ being itself impossible to define &mdash; but knowledge of the rational process of its conception has lost its importance in the contemporary school. Contemporary music education is now constructed on the abstracted and unstable ground of chord-scale theory, scales, modes, symmetries, and cultural constructs, yielding to further [self-referential](https://plato.stanford.edu/entries/self-reference/) abstractions as briefly listed below:
+These ground truths are not _incorrect_ of their own accord &mdash; _incorrect_ being itself impossible to define &mdash; but knowledge of the rational process of its conception has lost its importance in the contemporary school. Contemporary music education is now constructed on the abstracted and unstable ground of chord-scale theory, scales, modes, symmetries, and cultural constructs, yielding to further [self-referential](https://plato.stanford.edu/entries/self-reference/) abstractions/notions as briefly listed below:
 
 ### Assumption of octave equivalence
 
@@ -257,7 +270,7 @@ As a tangible example, applying any of the neo-Riemannian substitutions to a Ton
 
 For the same reason as presented above, negative harmony only works when the applied harmonic substitutions are within constraints of a particular temperament, or;
 
-if the octave-reduced harmonic lattice (e.g. in 5-limit music, the 2-dimensional [Tonnetz](https://en.wikipedia.org/wiki/Tonnetz) or [Lambda](https://hanskayser.com/EZ/hk/hk/hans-kayser-lambdoma.php?PHPSESSID=gdqq52v7083njaaq8h4ogef3fc)) has mirror-symmetry about the axis/plane that is [orthogonal](https://www.google.com/search?q=orthogonal) to all basis vectors (i.e. the [Monzo](http://www.tonalsoft.com/enc/m/monzo.aspx) of [1 1 1 1 ...>).
+if the octave-reduced harmonic lattice (e.g. in 5-limit music, the 2-dimensional [Tonnetz](https://en.wikipedia.org/wiki/Tonnetz) or [Lambdoma](https://hanskayser.com/EZ/hk/hk/hans-kayser-lambdoma.php?PHPSESSID=gdqq52v7083njaaq8h4ogef3fc)) has mirror-symmetry about the axis/plane that is [orthogonal](https://www.google.com/search?q=orthogonal) to the all-ones vector (under [basis](https://en.wikipedia.org/wiki/Basis_(linear_algebra)) of primes) (i.e. the [Monzo](http://www.tonalsoft.com/enc/m/monzo.aspx) of [1 1 1 1 ...>). (A similar construction exists in [Vietoris topology](https://en.wikipedia.org/wiki/Hypertopology), but no one would hate themself that much.)
 
 The fact that the 'negative' transform of a C major scale taken about its root note can generate exactly the fifth mode of its natural minor with the root a fifth below (F minor/C phrygian, modern modal definition) is part of the leniency of the symmetrical 12-tone system.
 
@@ -275,7 +288,7 @@ To paraphrase Bernstein, the divided school of expressionists (Scriabin v. Schoe
 
 The matrix operations and strict/semi-strict ordering of dodecaphony/serialism is mathematically the best response to the rejection of tonality. By having less deviation between the probabilities/frequencies of the 12 notes occurring, the entropy of pitch classes is maximized.
 
-Besides octave equivalence, this formal system of serialism is an endomorphism of harmony itself to [D24](https://groupprops.subwiki.org/wiki/Dihedral_group:D24) x [S2](https://groupprops.subwiki.org/wiki/Cyclic_group:Z2), which is a complete rejection of the [logarithmically perceived](https://youtu.be/EmP9HdzM6YI?t=294), non-[cyclic](https://en.wikipedia.org/wiki/Cyclic_group), asymmetric basis of the perception of musical frequencies and pitches in the context of [tones](https://cdn.head-acoustics.com/fileadmin/data/global/Application-Notes/SVP/Tonality-Hearing-Model-07.2018.pdf) (note: psychoacoustic 'tonality' not to be confused with musical 'tonality'). Without control over time, there is no way to create a [smooth](https://en.wikipedia.org/wiki/Smoothness) [bijective](https://en.wikipedia.org/wiki/Bijection) map from spectra to the operations of serialism. (Simple proof left as an exercise to the reader).
+Besides octave equivalence, this formal system of serialism is an endomorphism of harmony itself to [$D_{24}$](https://groupprops.subwiki.org/wiki/Dihedral_group:D24) $\times$ [$S_2$](https://groupprops.subwiki.org/wiki/Cyclic_group:Z2), which is a complete rejection of the [logarithmically perceived](https://youtu.be/EmP9HdzM6YI?t=294), non-[cyclic](https://en.wikipedia.org/wiki/Cyclic_group), asymmetric basis of the perception of musical frequencies and pitches in the context of [tones](https://cdn.head-acoustics.com/fileadmin/data/global/Application-Notes/SVP/Tonality-Hearing-Model-07.2018.pdf) (note: psychoacoustic 'tonality' not to be confused with musical 'tonality'). Without control over time, there is no way to create a [smooth](https://en.wikipedia.org/wiki/Smoothness) [bijective](https://en.wikipedia.org/wiki/Bijection) map from spectra to the operations of serialism. (Simple proof left as an exercise to the reader).
 
 Because of [Cantor's paradox](https://en.wikipedia.org/wiki/Cantor%27s_paradox), given pitches in the set of all reals, the serialist approach is no longer definable.
 
@@ -291,11 +304,11 @@ Once again, there is nothing inherently wrong with these constructs within the c
 
 ### Philosophy of tonality
 
-In the ideal world, tonality is the haecceity of existence. Or assuming existence follows no rules, then it is all the ways [rules may manifest](https://www.youtube.com/watch?v=RnqwFpyqJFw&ab_channel=RichardE.BORCHERDS), as long as they are in the infinite set of rules of [expectation and subversion](https://www.quantamagazine.org/how-godels-incompleteness-theorems-work-20200714/).
+In the ideal world, tonality is the haecceity of existence. Or assuming existence follows no rules, then tonality encompasses all the ways [rules may manifest](https://www.youtube.com/watch?v=RnqwFpyqJFw&ab_channel=RichardE.BORCHERDS), as long as they are in the infinite set of rules of [expectation and subversion](https://www.quantamagazine.org/how-godels-incompleteness-theorems-work-20200714/).
 
-> As a tangible example of the cryptic statement above, [well-formed scales](https://www.researchgate.net/publication/215646485_Aspects_of_Well-Formed_Scales) provides a teaser of how logical symmetries correlate with constructs evolved in cultures that temper/notice the [Pythagorean comma](https://en.wikipedia.org/wiki/Pythagorean_comma), such that musical structures tend toward the cardinalities of 1, 2, 3, 5, 7, 12, regardless of unit. Sacrificing accuracy for brevity, it could be said that the numbers themselves contain information of how they can be arranged. _There are a finite number of [distinct](https://en.wikipedia.org/wiki/Group_isomorphism) [finite groups](https://en.wikipedia.org/wiki/Finite_group) of each given [order](https://www.youtube.com/watch?v=OWTKYLAEYvY&ab_channel=Socratica)._ Even without accounting for any cultural entrainment, or with inaccurate assumptions of the linearity of pitch perception, a purely logical expression can give insight to structures that naturally evolve/occur. To give an idea of how this can manifest in a musical example, [Formalized Music](https://www.google.com/url?sa=t&source=web&rct=j&url=https://monoskop.org/images/7/74/Xenakis_Iannis_Formalized_Music_Thought_and_Mathematics_in_Composition.pdf&ved=2ahUKEwjV_N7vuK75AhUZDrcAHfoBD1QQFnoECBcQAQ&usg=AOvVaw2NvUWADheH32FlJ-OK2c0a) by Xenakis details his own conception and application of mathematical thinking to his works. Other well-known non-musical examples: [logistic maps](https://en.wikipedia.org/wiki/Logistic_map), [e](https://socratic.org/questions/how-does-e-2-718-help-apply-to-applications-implications-in-real-life), [phi](https://www.mathnasium.com/examples-of-the-golden-ratio-in-nature))
+> As a tangible example of the cryptic statement above, [well-formed scales](https://www.researchgate.net/publication/215646485_Aspects_of_Well-Formed_Scales) provides a teaser of how logical symmetries correlate with constructs evolved in cultures that temper/notice the [Pythagorean comma](https://en.wikipedia.org/wiki/Pythagorean_comma), such that musical structures tend toward the cardinalities of 1, 2, 3, 5, 7, 12, regardless of unit. Sacrificing accuracy for brevity, it could be said that the numbers themselves contain information of how they can be arranged. _There are a finite number of [distinct](https://en.wikipedia.org/wiki/Group_isomorphism) [finite groups](https://en.wikipedia.org/wiki/Finite_group) of each given [order](https://www.youtube.com/watch?v=OWTKYLAEYvY&ab_channel=Socratica)._ Even without accounting for any cultural entrainment, or with inaccurate assumptions of the linearity of pitch perception, a purely logical expression can give insight to structures that naturally evolve/occur. To give an idea of how this can manifest in a musical example, [Formalized Music](https://www.google.com/url?sa=t&source=web&rct=j&url=https://monoskop.org/images/7/74/Xenakis_Iannis_Formalized_Music_Thought_and_Mathematics_in_Composition.pdf&ved=2ahUKEwjV_N7vuK75AhUZDrcAHfoBD1QQFnoECBcQAQ&usg=AOvVaw2NvUWADheH32FlJ-OK2c0a) by Xenakis details his own conception and application of mathematical thinking to his works. Other well-known non-musical examples: [logistic maps](https://en.wikipedia.org/wiki/Logistic_map), [e](https://socratic.org/questions/how-does-e-2-718-help-apply-to-applications-implications-in-real-life), [phi](https://www.mathnasium.com/examples-of-the-golden-ratio-in-nature)
 
-Assuming this definition, tonality would then be a spectrum encompassing the interval from abstract to fundamental. Atonality is the epitome of disregard for the fundamental by an attempt to manifest the abstract, yet now it is within tonality. At the other end, we have the search for the fundamental.
+Assuming this definition, tonality would be a spectrum from abstract to fundamental. Atonality is the epitome of disregard for the fundamental by an attempt to manifest the abstract, yet now it is within the dichotomy of tonality. At the other end, we have the search for the fundamental.
 
 > I assume _fundamental_ to be defined with the mostly invariant physiological axioms of perception of pitch, timbre, harmony, and psychoacoustic phenomenon, not that of the subjective perception of structure or form. The subjectivity of psychoacoustic experimentation and the human experience is technically still an unstable self-referential foundation.
 >
@@ -305,7 +318,7 @@ Assuming this definition, tonality would then be a spectrum encompassing the int
 >
 > It is fair to assume that ears from the eurocentric culture will not be able to discern intended dissonance in a raag when the characteristic [swara](https://en.wikipedia.org/wiki/Svara)/[gamakas](https://en.wikipedia.org/wiki/Gamaka_(music)) of the raag is not adhered to ([vivadi](https://en.wikipedia.org/wiki/Vivadi)); when note/tuning substitutions are made within a makam; when the rhythmic downbeat is subjectively interpreted causing listeners to hear a different [tonality](https://open.spotify.com/track/2CtCCTCdk8plkJ1mfrHSK2?si=80d733858dcd48f4)/[resolution](https://open.spotify.com/track/53R2oPyXmdT4pVZqUOe7Dr?si=7e73077840ac4c33) than intended.
 
-The evolution of music across cultures and time shows the free choice that an individual has to choose a point along this 'tonality axis' to delve in.
+The evolution of music across cultures and time shows the free choice that an individual has to choose a point along this 'tonality axis' to delve in. To give a tangible example: [A History of Consonance and Dissonance](https://www.plainsound.org/pdfs/HCD.pdf) by James Tenney gives insight of how this has happened with regards to the perception of culturally/subjectively defined consonances and dissonances.
 
 On the opposite end of the abstract, we can define see tonality in terms of the harmonic series itself, the set of positive integers, manifested as integer multiples of an arbitrary base fundamental frequency. Pairs taken from this set will generate all rational intervals, which by [Weber's law of Just Noticeable Difference](http://apps.usd.edu/coglab/WebersLaw.html), would effectively be perceived as [all the intervals that may exist](https://www.youtube.com/watch?v=cyW5z-M2yzw&ab_channel=3Blue1Brown).
 
@@ -319,7 +332,10 @@ To give an example, a resolution to a minor tonality in 12edo could be utilized 
 
 And the list extends to infinity by means of the [Farey sequence](https://en.wikipedia.org/wiki/Farey_sequence) and [mediants](https://en.wikipedia.org/wiki/Mediant_(mathematics)). Each interpretation requires a different harmonic treatment that is consistent to the underlying (conscious/subconscious) numerical concept of the composer.
 
-In summary, tonality depends on what frequencies are being reinforced in the short term memory, and the reinforcement of frequencies are seen through the filter of intrinsic factors (objective concordance and ease of perception of intervals), but also through cultural reinforcement of patterns and clichés.
+In summary, tonality depends on what frequencies are being reinforced in the short term memory, and the reinforcement of frequencies are seen through the filter of intrinsic factors ([_concordance_](http://www.tonalsoft.com/enc/c/concord.aspx) and ease of perception of intervals), but also through cultural reinforcement of patterns and clichés.
+
+> Note: concordance is not to be confused with consonance. Concordance strictly refers to intrinsic physiological models, whereas consonance is subjective.
+
 
 TL;DR: Tonality is whatever you want it to be, but what is "be"?
 
@@ -333,7 +349,9 @@ Without prior context or asymmetries, it is impossible to differentiate I-IV fro
 
 We can extrapolate that functional harmony only exists because we experience stimuli relative to prior stimuli. If we could exist in the [infinitesimal now](https://link.springer.com/chapter/10.1007/978-3-319-44418-5_21), and assuming omniscience, every experience would be consonant, or at least, without motion (in the strain of [Zeno's Dichotomy Paradox of motion](https://en.m.wikipedia.org/wiki/Zeno%27s_paradoxes)).
 
-We now postulate that tonality is relative.
+This implies that tonality is relative to the state of the listener's short term memory. It is incorrect to conclude that 'resolutions' must abide by the unidirectional flow from physiological/psychoacoustical concordance to discordance. For example, resolutions in the modern mixolydian modes ([She - Alice Phoebe Lou](https://open.spotify.com/track/1uUjjVM3Dp9RDxhaJbu0RG?si=86b150d0ae70498a)), or the modern dorian modes ([So What - Miles Davis](https://open.spotify.com/track/7azylXFRsebfrIoAtwfjaB?si=cf818d53e6014331)) often utilise 'resolutions' from voicings of lower entropies/height complexity to higher entropies/height complexity, however the listener would still hear resolutions to the 'tonic' as it is strongly established in the short term memory by means of repetition, melodic phrasing (discussed in future article), and under the influence of cultural entrainment.
+
+Thus, it makes more sense to first study music in way that allows one to make accurate assumptions of the possible ways a listener would perceive it. I hypothesise that modelling the pitch stimuli with respect to a dynamic, culturally-informed model of pitch memory/tonality yields a better model for the perception of consonance, though it would be hard to describe the dynamic model of tonality without already being familiar with the culture. By nature, considering larger subgroup of listeners would incur greater inaccuracies in the model.
 
 ### Axes of tonality
 
@@ -352,4 +370,26 @@ Extrinsic:
 
 ## Fine
 
-Thanks for reading, the next article will focus on practical applications of these concepts.
+We have hence come full circle and arrived at a semi-conclusion that the present conception of music is always the best conception, at least on average. Or to be more precise, best for modelling the perception of the average music graduate. The same can be said of the choices of today's standardized tuning system for eurocentric music, that it has evolved in a feedback loop over time.
+
+Though, there are more fundamental reasons (historical events, language, pure math & logic, culture, physiological phenomena) behind these specific evolutions which can be found by analyzing how certain conceptions of music came to be. Knowledge of the evolutionary process of music can yield great effectiveness and ability in choosing a target audience, and a better application of the 'theories' of today. Alternatively, these concepts can now be extrapolated immensely beyond their intended realms of use, and can be applied generally to other systems of thought with creative and aesthetic value (but yielding a less-accurate model).
+
+> a writer who seeks to improve the effectiveness of their composition:
+>
+> could fully pander to popular culture, but the transience of [tremes](https://www.youtube.com/watch?v=5v5z5rjgOQY&ab_channel=StudiumGeneraleDelft) makes them [mid](https://www.urbandictionary.com/define.php?term=mid) [like rn](https://www.quora.com/Like-rn-I-need-help-what-does-%ED%95%9C%EA%B5%AD%EC%96%B4-%EA%B3%B5%EB%B6%80%EC%A4%91%EC%9D%B4%EC%8B%A0%EA%B0%80%EC%9A%94-mean), [n](https://www.urbandictionary.com/define.php?term=n) [p cringe](https://shsl-sad-bitch.tumblr.com/)
+> 
+> could implement n-grams, view statistics, and website analytics, like the top 10 medium writers all do
+> 
+> could refer to past works which are relevant today. surely, these have stood the test of time and so should theirs[⸮](https://en.wikipedia.org/wiki/Irony_punctuation) lest they be found archaic
+>
+> could confront the futility of entropy, then epiphanize the abstract just like [when you at the when you you when the when he when he at the](https://www.youtube.com/watch?v=eHPMgmt6a-4&ab_channel=preyemno)
+> 
+> could apply the [empirically proven](https://www.youtube.com/watch?v=XqZsoesa55w) psychological lemmas like [repetition legitimizes](https://www.youtube.com/watch?v=5tjfUp4AHKA&ab_channel=ChrisHitchins)
+>
+> could stay true to the roots of their prose, _ac ġecnēow them nænig cuðe_ ~~good luck with this one~~
+>
+> could do all of the above
+> 
+> could be
+
+Thanks for reading, the next article will be about the musical applications of generalized functional harmony.
