@@ -386,7 +386,7 @@ $$
 \mathrm{med}(3/3,\ 3/2) = \frac{3 + 3}{3 + 2} = \frac{6}{5} = HM(1/1, 3/2)
 $$
 
-Last examples: let's try it for $4/3$. Since the denominator is 3, we use $3/3$ for the 'unison' to get the AM:
+Last 2 examples: Let's try it for $4/3$. Since the denominator is 3, we use $3/3$ for the 'unison' to get the AM:
 
 $$
 \mathrm{med}(3/3,\ 4/3) = \frac{3 + 4}{3 + 3} = \frac{7}{6} = AM(1/1, 4/3)
