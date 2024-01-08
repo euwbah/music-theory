@@ -35,7 +35,7 @@ $$
 \end{align*}
 $$
 
-## 1. The Monochord
+## 1. The Monochord (lit: one string)
 
 For examples' sake, consider the Monochord below with a 100 cm long string that sounds at 100 Hz when plucked (numbers were made nicer to make examples easier to follow).
 
@@ -151,9 +151,9 @@ The ratio of frequencies between 100 Hz and 150 Hz is $3:2$
 
 This is a perfect fifth! Again, by conventional modern music theory standards, we don't consider the P5 interval to be "exactly in the middle" of an octave.
 
-Most musicians are currently of the mindset that all notes and intervals are to be compared with respect to the prescribed 12 semitones. Rather, it is important to remember that 11 out of the 12 semitone intervals within an octave are [approximations](https://en.wikipedia.org/wiki/Musical_temperament#:~:text=Tempering%20is%20the%20process%20of,narrower%20or%20wider%20than%20pure.) of the "original" tunings of these notes, which are based on $a/b$ ratios between frequencies. It is important to remember that much of recent academic music theory literature (PLR & Neo-Riemannian, serialism, etc...) only works and can be applied because of the very specific approximations of these original tunings induced by the 12-tone system.
+Present day musicians are currently use the 12 equal semitones of modern tuning as the 'benchmark' of being 'in tune', and most have the view that whatever 'microtonal' notes and intervals are to be considered with respect to the preset 12 semitones. Rather, it is important to remember that 11 out of the 12 semitone intervals within an octave are [approximations](https://en.wikipedia.org/wiki/Musical_temperament#:~:text=Tempering%20is%20the%20process%20of,narrower%20or%20wider%20than%20pure.) of the "original" tunings of these notes, which are based on $a/b$ ratios between frequencies. Much of recent academic music theory literature (PLR/Neo-Riemannian, Duality, Serialism, chord-scale theory, etc...) relies on the very specific approximations of these original tunings induced by the 12-tone system, and the reasons for why such approximations allows for these models of functional harmony can be explained by [Regular Temperament Theory](https://en.xen.wiki/w/Dave_Keenan_%26_Douglas_Blumeyer%27s_guide_to_RTT), which is wayyy out of scope for now.
 
-While the Harmonic and Arithmetic Means are not looking useful for modern musicians in the 12-equal tuning system of today, these two means are the building blocks for all musical intervals! We'll go into this later.
+Regardless, while the Harmonic and Arithmetic Means are not looking useful for modern musicians in the 12-equal tuning system of today, these two means were, at least to the Pythagoreans, the [building blocks for all musical intervals](#5-ptolemys-pyramid---construction-of-pitches-using-the-classical-means), which later influenced modern tuning!
 
 ## 4. The Geometric Mean
 
@@ -328,7 +328,10 @@ E.g.:
 This fact also demonstrates a rather famous identity and inequality between the three classical means, useful for solving stuff in number theory or geometry problems:
 
 $$
-AM(a, b) \times HM(a, b) = GM(a, b)^2 \\
+AM(a, b) \times HM(a, b) = GM(a, b)^2
+$$
+
+$$
 AM \geq GM \geq HM
 $$
 
