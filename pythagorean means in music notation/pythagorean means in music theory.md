@@ -1,6 +1,6 @@
 # The Pythagorean Means: a very short intro to Just Intonation
 
-{%hackmd theme-dark %}
+{%hackmd @themes/dracula %}
 
 ~ euwbah Jan 8 2024
 
