@@ -364,13 +364,15 @@ $$
 \mathrm{med}(1/1,\ 2/1) = \frac{1 + 2}{1 + 1} = \frac{3}{2} = AM(1/1, 2/1)
 $$
 
-However, $2/2$ is also a unison, but with a form of pseudo-["torsion"](https://en.wikipedia.org/wiki/Torsion_(algebra)) applied. When we take the mediant of $2/2$ and $2/1$, we still get an interval guaranteed to be between them both, but now we have:
+However, $2/2$ is also a unison. When we take the mediant of $2/2$ and $2/1$, we still get an interval guaranteed to be between them both, but now we have:
 
 $$
 \mathrm{med}(2/2,\ 2/1) = \frac{2 + 2}{2 + 1} = \frac{4}{3} = HM(1/1, 2/1)
 $$
 
-> 🟡 Without going into the math, think of tortion as the ability for the same interval to have many representations, with varying degrees of 'reduced'-ness. You can read the equally abstract musical applications on the [Xen Wiki: Saturation, torsion, and contorsion](https://en.xen.wiki/w/Saturation,_torsion,_and_contorsion)
+> 🟡 The idea of different ways to represent the same interval lies the latent idea of [algebraic torsion](https://en.wikipedia.org/wiki/Torsion_(algebra)), which is something that music intonation and temperament theory has to deal with. Without going too deep into the math for now, think of torsion as the ability for the same interval to have many representations, with varying degrees of 'reduced'-ness.
+>
+> You can read the musical view of torsion on the [Xen Wiki: Saturation, torsion, and contorsion](https://en.xen.wiki/w/Saturation,_torsion,_and_contorsion)
 
 Now let's try the same for the interval $3/2$, because the denominator of $3/2$ is 2, we use $2/2$ for the 'unison' to get the AM:
 
