@@ -5,7 +5,7 @@
 A brief and informal introduction to a fundamentalist, [Zermelo–Fraenkel](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory)-esque approach to functional harmony of the European/Western music tradition, concluding in half-jestful thoughts about the pursuit of the philosophy of 'tonal music': ~~a 3-philosophy, a philosophy of a philosophy of a philosophy~~
 
 tonal music
-: coming from the european classical tradition made after the conception of '[major and minor](https://en.wikipedia.org/wiki/Major_and_minor)' and the deprecation of medieval modus and the [Guidonian hexachordal system](https://www.youtube.com/watch?v=IRDDT1uSrd0&ab_channel=EarlyMusicSources) from mainstream conception. 
+: coming from the european classical tradition made after the conception of '[major and minor](https://en.wikipedia.org/wiki/Major_and_minor)' and the deprecation of medieval modus and the [Guidonian hexachordal system](https://www.youtube.com/watch?v=IRDDT1uSrd0&ab_channel=EarlyMusicSources) from mainstream conception.
 
 tonality
 : the conceptions behind tonal music
@@ -13,7 +13,7 @@ tonality
 functional
 : a mostly consistent application of tonality to invoke the perception of harmonic structure and form
 
-This article's main intention is to serve as a launchpad: a glossary of terminologies to google, with occasional links to sources that are put in context (hopefully) of a far-reaching inquiry: the math, aesthetics, history, physiology, psychology, and philosophy of music in the eurocentric paradigm. Tons of links of videos, papers, and articles within this document, have a look at them (use Chrome as some links are to specific fragments which is unfortunately presently a chrome-only feature). 
+This article's main intention is to serve as a launchpad: a glossary of terminologies to google, with occasional links to sources that are put in context (hopefully) of a far-reaching inquiry: the math, aesthetics, history, physiology, psychology, and philosophy of music in the eurocentric paradigm. Tons of links of videos, papers, and articles within this document, have a look at them (use Chrome as some links are to specific fragments which is unfortunately presently a chrome-only feature).
 
 You would have to revisit these sources many times, and read them (and this) in small chunks. Be warned, there will be constant jumps and gaps in topics leaving out deductions and certain thought processes, for the sake of brevity.
 
@@ -121,7 +121,7 @@ We can already make the observation that the simplest vertical structures would 
 >
 > Harmonic entropy can be thought of as a 'general formula' for calculating discordance of a static vertical chord voicing. The computation is beyond the scope of this writing, but it is good to know that the intuitive 'complexity' we are using still holds true even when using harmonic entropy for our current example.
 >
-> There are also known metrics of objectively scoring the complexity of just intonated interval ratios, which are known as [height functions](htt.ps://en.xen.wiki/w/Height). When a just interval is said to be relatively 'complicated' or 'discordant', the height function would yield a relatively larger score. In number theory, height functions quantify the [complexity of objects](https://en.wikipedia.org/wiki/Height_function). 
+> There are also known metrics of objectively scoring the complexity of just intonated interval ratios, which are known as [height functions](htt.ps://en.xen.wiki/w/Height). When a just interval is said to be relatively 'complicated' or 'discordant', the height function would yield a relatively larger score. In number theory, height functions quantify the [complexity of objects](https://en.wikipedia.org/wiki/Height_function).
 >
 >> Disclaimer's Disclaimer 1: [This excerpt](https://twitter.com/iamzheanna/status/1554221667370541058) by Zheanna Erose demonstrates a consonant, and familiar (12 edo-ish), sounding collection of 7 just-intonated notes such that all frequencies are coprime (not counting prime 2 - octave-reduction). By the metric of height functions, this collection is of great complexity, despite its consonance. To add, the 12 edo major scale has technically infinite complexity since it is tuned with irrational frequencies.
 >>
@@ -368,7 +368,7 @@ Extrinsic:
 - timbral harmony (variate to powers of high primes)
 - rhythmic entrainment
 
-## Fine
+## End
 
 We have hence come full circle and arrived at a semi-conclusion that the present conception of music is always the best conception, at least on average. Or to be more precise, best for modelling the perception of the average music graduate. The same can be said of the choices of today's standardized tuning system for eurocentric music, that it has evolved in a feedback loop over time.
 
@@ -377,19 +377,19 @@ Though, there are more fundamental reasons (historical events, language, pure ma
 > a writer who seeks to improve the effectiveness of their composition:
 >
 > could fully pander to popular culture, but the transience of [tremes](https://www.youtube.com/watch?v=5v5z5rjgOQY&ab_channel=StudiumGeneraleDelft) makes them [mid](https://www.urbandictionary.com/define.php?term=mid) [like rn](https://www.quora.com/Like-rn-I-need-help-what-does-%ED%95%9C%EA%B5%AD%EC%96%B4-%EA%B3%B5%EB%B6%80%EC%A4%91%EC%9D%B4%EC%8B%A0%EA%B0%80%EC%9A%94-mean), [n](https://www.urbandictionary.com/define.php?term=n) [p cringe](https://shsl-sad-bitch.tumblr.com/)
-> 
+>
 > could implement n-grams, view statistics, and website analytics, like the top 10 medium writers all do
-> 
+>
 > could refer to past works which are relevant today. surely, these have stood the test of time and so should theirs[⸮](https://en.wikipedia.org/wiki/Irony_punctuation) lest they be found archaic
 >
 > could confront the futility of entropy, then epiphanize the abstract just like [when you at the when you you when the when he when he at the](https://www.youtube.com/watch?v=eHPMgmt6a-4&ab_channel=preyemno)
-> 
+>
 > could apply the [empirically proven](https://www.youtube.com/watch?v=XqZsoesa55w) psychological lemmas like [repetition legitimizes](https://www.youtube.com/watch?v=5tjfUp4AHKA&ab_channel=ChrisHitchins)
 >
 > could stay true to the roots of their prose, _ac ġecnēow them nænig cuðe_ ~~good luck with this one~~
 >
 > could do all of the above
-> 
+>
 > could be
 
 Thanks for reading, the next article will be about the musical applications of generalized functional harmony.
