@@ -1,5 +1,7 @@
 # The Pythagorean Means: a very short intro to Just Intonation
 
+{%hackmd theme-dark %}
+
 ~ euwbah Jan 8 2024
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5KoRLrbkARhAUQC1tBngaA?style=flat&logo=youtube&label=euwbah&color=%23111111)](https://www.youtube.com/channel/UC5KoRLrbkARhAUQC1tBngaA)
