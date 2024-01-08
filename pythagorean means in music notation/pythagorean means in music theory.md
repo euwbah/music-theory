@@ -8,7 +8,7 @@
 
 -----
 
-![Classical means visualization](classical-means.png)
+![Classical means visualization](https://raw.githubusercontent.com/euwbah/music-theory/master/pythagorean%20means%20in%20music%20notation/classical-means.png)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A nice geometric way of viewing the arithmetic, geometric, and harmonic means of two numbers. It is also easy to see that A&gt;G&gt;H. <a href="https://t.co/66J0UKFBv9">pic.twitter.com/66J0UKFBv9</a></p>&mdash; Dave Richeson (@divbyzero) <a href="https://twitter.com/divbyzero/status/1039629625985564672?ref_src=twsrc%5Etfw">September 11, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -47,7 +47,7 @@ Let's say we have a 100cm long string that sounds a 100 Hz when plucked. By halv
 
 If we were to write the start of each waveform period as a note, the sheet music would look something like this, sped up to 100 beats per second:
 
-![Quavers is to crochets ratio music notation](./2-to-1.png)
+![Quavers is to crochets ratio music notation](https://raw.githubusercontent.com/euwbah/music-theory/master/pythagorean%20means%20in%20music%20notation/2-to-1.png)
 
 This interval relationship is so simple that these two notes will have been given the same nominal name, distinguished only by octave number (e.g. A3 (220 Hz) vs A4 (440 Hz) is in the $2:1$ ratio).
 
@@ -204,7 +204,7 @@ $$
 \text{Exactly half an octave} = \left(\text{Unison (1:1)}\times\text{Octave (2:1)}\right)^{\frac{1}{2}} = \sqrt{2} = 1.4142...
 $$
 
-![Alt text](splitting-octave.png)
+![Alt text](https://raw.githubusercontent.com/euwbah/music-theory/master/pythagorean%20means%20in%20music%20notation/splitting-octave.png)
 
 <iframe width="560" height="315" src="https://xenpaper.com/#embed:(1)(env%3A1799)(osc%3Asawtooth)_%0A100hz_141.42hz_200hz%0A400hz_565.685hz_800hz" title="Xenpaper" frameborder="0" style="height:11em"></iframe>
 
